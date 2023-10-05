@@ -46,8 +46,6 @@ public class MethodOverridingEx {
 
         (new Circle()).draw();
         (new Shape()).draw();
-
-
         // check: 동적 바인딩과 정적 바인딩이 뭐야?
     }
 }
