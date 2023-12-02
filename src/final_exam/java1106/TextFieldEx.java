@@ -14,7 +14,13 @@ public class TextFieldEx extends JFrame {
         c.add(new JLabel("이름 "));
         c.add(new JTextField(20));
         c.add(new JLabel("학과 "));
-        c.add(new JTextField("컴퓨터공학과 ", 20));
+
+        JTextField field = new JTextField("컴퓨터공학과 ", 20);
+        field.addActionListener(e -> {
+            System.out.println(((JTextField) e.getSource()).getText());
+        });
+
+        c.add(field);
         c.add(new JLabel("주소 "));
         c.add(new JTextField("서울시 ...", 20));
 

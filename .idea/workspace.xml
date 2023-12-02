@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93f3ba1e-ee8a-4ba6-b849-93b7a2b55876" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/final_exam/java1120/SynchronizedEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/final_exam/java1120/ThreadFinishFlagEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/final_exam/java1120/ThreadInterruptEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/final_exam/java1120/ThreadMainEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/final_exam/java1127/ServerEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final_exam/java1130/CalcServerEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final_exam/java1130/ClientEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final_exam/java1130/chat/Chat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final_exam/java1130/chat/ChatClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final_exam/java1130/chat/ChatServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final_exam/java1130/chatting/ChatClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final_exam/java1130/chatting/ChatServer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/final_exam/java1106/TextFieldEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/final_exam/java1106/TextFieldEx.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,6 +107,11 @@
       <workItem from="1700100106243" duration="4095000" />
       <workItem from="1700438072524" duration="2825000" />
       <workItem from="1701043040549" duration="1529000" />
+      <workItem from="1701309221806" duration="6028000" />
+      <workItem from="1701333867743" duration="732000" />
+      <workItem from="1701405444524" duration="7000" />
+      <workItem from="1701439890652" duration="2026000" />
+      <workItem from="1701476451975" duration="2617000" />
     </task>
     <servers />
   </component>
