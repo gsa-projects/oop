@@ -5,15 +5,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93f3ba1e-ee8a-4ba6-b849-93b7a2b55876" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/final_exam/java1130/CalcServerEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/final_exam/java1130/ClientEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/final_exam/java1130/chat/Chat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/final_exam/java1130/chat/ChatClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/final_exam/java1130/chat/ChatServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/final_exam/java1130/chatting/ChatClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/final_exam/java1130/chatting/ChatServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/final_exam/AnonymousClassListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/final_exam/BinaryCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/final_exam/BinaryFastCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/final_exam/ChatClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/final_exam/ChatServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/final_exam/CopyEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/final_exam/IteratorEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/final_exam/KeyListenerEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/final_exam/KeyListenerEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/final_exam/KeyListenerEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/final_exam/StringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/final_exam/TimerInterruptEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/final_exam/TimerInterruptEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/final_exam/VectorEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/final_exam2/BackgroundChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/final_exam2/BinaryCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/final_exam2/BinaryFastCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/final_exam2/ChatClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/final_exam2/ChatServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/final_exam2/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/final_exam2/IteratorEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/final_exam2/KillTimer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/final_exam2/KillTimer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/final_exam2/KillTimer3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/final_exam2/TabAndButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/final_exam2/TextMoving.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/final_exam2/WhichKeyPressed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/final_exam2/chat/ChatClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/final_exam2/chat/ChatServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/final_exam2/test/ChatServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/final_exam3/BackgroundChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/final_exam3/BinaryCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/final_exam3/BinaryFastCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/final_exam3/KillTimer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/final_exam3/TextMoving.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/final_exam3/oihwef.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/final_exam/java1106/TextFieldEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/final_exam/java1106/TextFieldEx.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +73,29 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.AnonymousClassListener.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BackgroundChange.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinaryCopy.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinaryFastCopy.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ChatClient.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ChatServer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CopyEx.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Customer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IteratorEx.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KeyCallback.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KeyListenerEx.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KeyListenerEx2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KeyListenerEx3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KillTimer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KillTimer2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KillTimer3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TabAndButton.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TextMoving.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TimerInterruptEx.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TimerInterruptEx2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VectorEx.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WhichKeyPressed.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
@@ -53,20 +104,23 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/gsa/oop/src/final_exam/java1116&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/gsa/oop/test/final_exam&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.toDoOptions&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\gsa\oop\test\final_exam" />
       <recent name="D:\gsa\oop\src\final_exam\java1116" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -75,9 +129,18 @@
       <recent name="D:\gsa\oop\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="final_exam2" />
+      <recent name="final_exam" />
       <recent name="final_exam.java1113" />
       <recent name="final_exam.java1102" />
     </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-3183f394aec4-8f899f12" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="1" Folder0="D:\tools\ko-dict" CustomDictionaries="1" CustomDictionary0="D:\tools\ko-dict\ko.dic" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -112,6 +175,15 @@
       <workItem from="1701405444524" duration="7000" />
       <workItem from="1701439890652" duration="2026000" />
       <workItem from="1701476451975" duration="2617000" />
+      <workItem from="1702705663845" duration="13860000" />
+      <workItem from="1702727494029" duration="30000" />
+      <workItem from="1702744977967" duration="212000" />
+      <workItem from="1702799475120" duration="10053000" />
+      <workItem from="1702816645517" duration="4104000" />
+      <workItem from="1702827902379" duration="6139000" />
+      <workItem from="1702861768067" duration="2418000" />
+      <workItem from="1702868047273" duration="279000" />
+      <workItem from="1702868714416" duration="732000" />
     </task>
     <servers />
   </component>
