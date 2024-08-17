@@ -5,43 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93f3ba1e-ee8a-4ba6-b849-93b7a2b55876" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/test/final_exam/AnonymousClassListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/final_exam/BinaryCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/final_exam/BinaryFastCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/final_exam/ChatClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/final_exam/ChatServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/final_exam/CopyEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/final_exam/IteratorEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/final_exam/KeyListenerEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/final_exam/KeyListenerEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/final_exam/KeyListenerEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/final_exam/StringMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/final_exam/TimerInterruptEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/final_exam/TimerInterruptEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/final_exam/VectorEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/final_exam2/BackgroundChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/final_exam2/BinaryCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/final_exam2/BinaryFastCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/final_exam2/ChatClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/final_exam2/ChatServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/final_exam2/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/final_exam2/IteratorEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/final_exam2/KillTimer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/final_exam2/KillTimer2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/final_exam2/KillTimer3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/final_exam2/TabAndButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/final_exam2/TextMoving.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/final_exam2/WhichKeyPressed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/final_exam2/chat/ChatClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/final_exam2/chat/ChatServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/final_exam2/test/ChatServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/final_exam3/BackgroundChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/final_exam3/BinaryCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/final_exam3/BinaryFastCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/final_exam3/KillTimer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/final_exam3/TextMoving.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/final_exam3/oihwef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JsoupExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KotlinPlayground.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/oop.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,54 +38,57 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Application.AnonymousClassListener.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BackgroundChange.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BinaryCopy.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BinaryFastCopy.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ChatClient.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ChatServer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CopyEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Customer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IteratorEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.KeyCallback.executor&quot;: &quot;Run&quot;,
-    &quot;Application.KeyListenerEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.KeyListenerEx2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.KeyListenerEx3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.KillTimer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.KillTimer2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.KillTimer3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringMethods.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TabAndButton.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TextMoving.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TimerInterruptEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TimerInterruptEx2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VectorEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WhichKeyPressed.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ToolWindowRun.ShowToolbar&quot;: &quot;false&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/gsa/oop/test/final_exam&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.toDoOptions&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.AnonymousClassListener.executor": "Run",
+    "Application.BackgroundChange.executor": "Run",
+    "Application.BinaryCopy.executor": "Run",
+    "Application.BinaryFastCopy.executor": "Run",
+    "Application.ChatClient.executor": "Run",
+    "Application.ChatServer.executor": "Run",
+    "Application.CopyEx.executor": "Run",
+    "Application.Customer.executor": "Run",
+    "Application.IteratorEx.executor": "Run",
+    "Application.KeyCallback.executor": "Run",
+    "Application.KeyListenerEx.executor": "Run",
+    "Application.KeyListenerEx2.executor": "Run",
+    "Application.KeyListenerEx3.executor": "Run",
+    "Application.KillTimer.executor": "Run",
+    "Application.KillTimer2.executor": "Run",
+    "Application.KillTimer3.executor": "Run",
+    "Application.StringMethods.executor": "Run",
+    "Application.TabAndButton.executor": "Run",
+    "Application.TextMoving.executor": "Run",
+    "Application.TimerInterruptEx.executor": "Run",
+    "Application.TimerInterruptEx2.executor": "Run",
+    "Application.VectorEx.executor": "Run",
+    "Application.WhichKeyPressed.executor": "Run",
+    "Kotlin.KotlinPlaygroundKt.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ToolWindowRun.ShowToolbar": "false",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Tools/jsoup-1.17.2.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.toDoOptions",
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.CircleArea.executor": "Run",
+    "애플리케이션.JsoupExample.executor": "Run"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\gsa\oop\test\final_exam" />
@@ -135,10 +106,45 @@
       <recent name="final_exam.java1102" />
     </key>
   </component>
+  <component name="RunManager" selected="Kotlin.KotlinPlaygroundKt">
+    <configuration name="CircleArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mid_exam.java0817.CircleArea" />
+      <module name="oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mid_exam.java0817.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsoupExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JsoupExample" />
+      <module name="oop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KotlinPlaygroundKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KotlinPlaygroundKt" />
+      <module name="oop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.KotlinPlaygroundKt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-17.0.9-corretto-17.0.9-3183f394aec4-8f899f12" />
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.300" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.300" />
       </set>
     </attachedChunks>
   </component>
@@ -184,6 +190,9 @@
       <workItem from="1702861768067" duration="2418000" />
       <workItem from="1702868047273" duration="279000" />
       <workItem from="1702868714416" duration="732000" />
+      <workItem from="1720419604592" duration="3231000" />
+      <workItem from="1722949310813" duration="39000" />
+      <workItem from="1723383883626" duration="238000" />
     </task>
     <servers />
   </component>
